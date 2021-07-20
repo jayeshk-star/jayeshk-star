@@ -2,7 +2,7 @@
  <h1 align="center" style="color:"blue"">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30" height="30" />, I am Jayesh Kale</h1>
  <h3 align="center"> An enthusiastic web developer who is after excellence, integrity and collaboration, team player with strong interpersonal and time management skills.</h3>
  <p  align="center" >
- <img src="https://image.shutterstock.com/image-illustration/web-development-coding-concept-banner-600w-1955634814.jpg" width='1200' heigth="200"/>
+ <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" width='1200' heigth="150"/>
  </p>
  
  <h2>🙋‍♂️ About Me</h2>
