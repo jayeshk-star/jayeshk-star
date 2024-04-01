@@ -16,8 +16,8 @@
 
  <h2>🚀 Skills and Languages </h2>
  <p align="center">
-<img src="" heigth="60" width="60"/>
-<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg" heigth="60" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
 <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" heigth="60" width="60"/>
 <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" heigth="60" width="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" heigth="60" width="60"/>
