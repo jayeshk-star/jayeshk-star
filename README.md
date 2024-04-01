@@ -45,7 +45,7 @@
  
  <h2>◽ GitHub Stats 📊 :</h2>
  <p  align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jayeshk-star&theme=tokyonight&show_icons=true"  heigth="200" width="565"/> //
+ <img src="https://github-readme-stats.vercel.app/api?username=jayeshk-star&theme=tokyonight&show_icons=true"  heigth="200" width="565"/>
  <img src="https://camo.githubusercontent.com/0e3a463860178609f80c804e18d833db702ceb7bcf194dfbd63e60da960e6763/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61736869736838373936267468656d653d746f6b796f6e69676874"   heigth="100" width="235"/> 
 </p>
 
