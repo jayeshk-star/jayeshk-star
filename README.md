@@ -18,7 +18,7 @@
  <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" heigth="60" width="60"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" heigth="60" width="60"/>
-<img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" heigth="60" width="60"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KINqrhal2CQq7f4mTGQh5mLS2QkB-WHLdxUtlzY80df5Lp_qLmki2m9WiTcXNp7lnAM&usqp=CAU" heigth="60" width="60"/>
 <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" heigth="60" width="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" heigth="60" width="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6t4EEo5cGPHLVjGtrTqO0xBNEdzwZP5flBdEliAD3Q&s" heigth="60" width="60"/>
