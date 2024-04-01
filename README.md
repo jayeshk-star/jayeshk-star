@@ -43,7 +43,7 @@
  
  <h2>- What i do</h2>
  <p  align="center">
- <img src="https://camo.githubusercontent.com/d20ab41647146b80d4a1b001e3130dd31ea883b9d29b938ac7f03fe29f10bcd9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966"/>
+ <img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
  </p>
  
  <h2>◽ GitHub Stats 📊 :</h2>
